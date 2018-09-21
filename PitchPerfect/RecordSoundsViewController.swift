@@ -5,7 +5,6 @@
 //  Created by Giray Gençaslan on 6.08.2018.
 //  Copyright © 2018 Giray Gençaslan. All rights reserved.
 //
-
 import UIKit
 import AVFoundation
 
